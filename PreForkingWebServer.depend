@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1523196156 source:/home/onik/CPPPrep/PreForkingWebServer/util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<arpa/inet.h>
+	"util.h"
+
+1523196910 /home/onik/CPPPrep/PreForkingWebServer/util.h
+	<unistd.h>
+
+1523278879 source:/home/onik/CPPPrep/PreForkingWebServer/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<netinet/in.h>
+	<signal.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<errno.h>
+	<sys/un.h>
+	"util.h"
+
+1523196156 source:/home/onik/CPPPrep/PreForkingWebServer/util.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<arpa/inet.h>
+	"util.h"
+
